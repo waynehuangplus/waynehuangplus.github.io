@@ -6,5 +6,14 @@
     <description>Recent content on Hugo Future Imperfect Slim em português</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language><atom:link href="https://waynehuangplus.github.io/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre</title>
+      <link>https://waynehuangplus.github.io/pt/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://waynehuangplus.github.io/pt/about/</guid>
+      <description>Escrito em Go, Hugo é um gerador de site estático de código aberto disponível sob a [Apache License 2.0.] (Https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo suporta tipos de arquivos de dados TOML, YAML e JSON , Markdown e arquivos de conteúdo HTML e usa códigos de acesso para adicionar conteúdo rico. Outros recursos notáveis ​​são taxonomias, modo multilíngue, processamento de imagem, formatos de saída personalizados, minificação HTML / CSS / JS e suporte para fluxos de trabalho Sass SCSS.</description>
+    </item>
+    
   </channel>
 </rss>

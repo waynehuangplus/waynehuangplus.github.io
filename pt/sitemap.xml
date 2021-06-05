@@ -2,11 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://waynehuangplus.github.io/pt/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://waynehuangplus.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://waynehuangplus.github.io/pl/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://waynehuangplus.github.io/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://waynehuangplus.github.io/pt/about/"
+                />
+  </url><url>
     <loc>https://waynehuangplus.github.io/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://waynehuangplus.github.io/en/categories/"
+                href="https://waynehuangplus.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,7 +59,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://waynehuangplus.github.io/categories/"
+                href="https://waynehuangplus.github.io/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,7 +81,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://waynehuangplus.github.io/en/"
+                href="https://waynehuangplus.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -88,7 +111,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://waynehuangplus.github.io/"
+                href="https://waynehuangplus.github.io/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -110,7 +133,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://waynehuangplus.github.io/en/tags/"
+                href="https://waynehuangplus.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -140,7 +163,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://waynehuangplus.github.io/tags/"
+                href="https://waynehuangplus.github.io/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"

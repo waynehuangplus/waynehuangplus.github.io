@@ -2,70 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://waynehuangplus.github.io/posts/my-first-post/</loc>
-    <lastmod>2021-06-05T12:23:20+08:00</lastmod>
-  </url><url>
-    <loc>https://waynehuangplus.github.io/posts/</loc>
-    <lastmod>2021-06-05T12:23:20+08:00</lastmod>
-  </url><url>
-    <loc>https://waynehuangplus.github.io/</loc>
-    <lastmod>2021-06-05T12:23:20+08:00</lastmod>
+    <loc>https://waynehuangplus.github.io/zh-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://waynehuangplus.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://waynehuangplus.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://waynehuangplus.github.io/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://waynehuangplus.github.io/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://waynehuangplus.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://waynehuangplus.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://waynehuangplus.github.io/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://waynehuangplus.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://waynehuangplus.github.io/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://waynehuangplus.github.io/"
-                />
-  </url><url>
-    <loc>https://waynehuangplus.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://waynehuangplus.github.io/en/categories/"
+                href="https://waynehuangplus.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -110,14 +51,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://waynehuangplus.github.io/categories/"
+                href="https://waynehuangplus.github.io/zh-tw/categories/"
                 />
   </url><url>
-    <loc>https://waynehuangplus.github.io/tags/</loc>
+    <loc>https://waynehuangplus.github.io/zh-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://waynehuangplus.github.io/en/tags/"
+                href="https://waynehuangplus.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -162,7 +103,59 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://waynehuangplus.github.io/tags/"
+                href="https://waynehuangplus.github.io/zh-tw/tags/"
+                />
+  </url><url>
+    <loc>https://waynehuangplus.github.io/zh-tw/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://waynehuangplus.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://waynehuangplus.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://waynehuangplus.github.io/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://waynehuangplus.github.io/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://waynehuangplus.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://waynehuangplus.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://waynehuangplus.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://waynehuangplus.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://waynehuangplus.github.io/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://waynehuangplus.github.io/zh-tw/"
                 />
   </url>
 </urlset>
